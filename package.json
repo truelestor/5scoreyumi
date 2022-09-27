@@ -1,0 +1,18 @@
+{
+  "name": "5scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "amazing-credit-scores.com ◄ Get Your FREE Credit Score amazing-credit-scores.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "amazing-credit-scores.com",
+    "credit score for wells fargo",
+    "600 credit score car loan interest rate",
+    "credit score 490",
+    "without credit score loan app"
+  ],
+  "repository": "https://github.com/truelestor/5scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
